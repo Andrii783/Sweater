@@ -6,6 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad05d6f-754a-4905-b42a-dd1ea4931e2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/sweater/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -296,7 +297,8 @@
       <workItem from="1569521092308" duration="930000" />
       <workItem from="1569763155258" duration="2891000" />
       <workItem from="1569788201851" duration="7434000" />
-      <workItem from="1569959622741" duration="4005000" />
+      <workItem from="1569959622741" duration="4698000" />
+      <workItem from="1570023024143" duration="632000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1569961856924</created>
@@ -326,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570019519638</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update">
+      <created>1570020302070</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570020302071</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
