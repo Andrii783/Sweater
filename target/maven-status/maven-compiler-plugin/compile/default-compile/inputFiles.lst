@@ -1,4 +1,10 @@
 /Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/domain/Message.java
+/Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/domain/User.java
+/Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/repo/UserRepo.java
+/Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/config/MvcConfig.java
 /Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/Application.java
-/Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/GreetingController.java
+/Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/config/WebSecurityConfig.java
+/Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/domain/Role.java
 /Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/repo/MessageRepo.java
+/Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/contoller/MainController.java
+/Users/andreypalko/Java/Git/Sweater/src/main/java/com/example/sweater/contoller/RegistrationController.java
